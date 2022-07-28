@@ -6,6 +6,8 @@ A selection of data visualisation notebooks:
 
   3. MatPlotLib: Plotting points, functions, formatting, subplots, gridspec
 
+  4. Oil and Gas Basic Analysis: Basic EDA and analysis of the Kaggle Oil and Gas dataset
 
 
-Notebooks (2) and (3) adapted from Le Wagon Data Science bootcamp.
+
+Notebooks (2), (3) and (4) adapted from Le Wagon Data Science bootcamp.
